@@ -8,6 +8,8 @@ This project aims to incentivize contributions to educational DAOs (Decentralize
 
 ## Contract Address
 0xC43116ea348E058f924C23beDb523317C78651bD
+![image](https://github.com/user-attachments/assets/abf5268b-c24c-4d55-b94e-8baa087006cd)
+
 
 ## Project Vision
 The vision of this project is to empower contributors in educational ecosystems by providing them with tangible rewards for their efforts. By using blockchain technology and tokenomics, we hope to create an incentivized and decentralized educational platform where contributors are directly rewarded for their engagement. Ultimately, this will help foster a self-sustaining community around educational content and resources, enabling decentralized learning and decision-making.
